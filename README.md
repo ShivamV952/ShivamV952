@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sv2923975@gmail.com**
 
-- ⚡ Fun fact **I am a gyn enthusiast**
+- ⚡ Fun fact **I am a gym enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
