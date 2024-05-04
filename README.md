@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Flutter, React Native, NodeJs, NextJs**
 
-- 📫 How to reach me **sv2923975@gmail.com**
+- 📫 How to reach me **shivam952v@gmail.com**
 
 - ⚡ Fun fact **I am a gym enthusiast**
 
