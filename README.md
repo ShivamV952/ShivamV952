@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHIVAM</h1>
+<h1 align="center">Hi 👋, I'm Shivam Verma</h1>
 <h3 align="center">I am a Final year student at IIIT Lucknow</h3>
 <h3 align="center">A passionate developer from India</h3>
 
