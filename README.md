@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
-<h3 align="center">I am a Final year student at IIIT Lucknow</h3>
+<h3 align="center">I am a 2025 passout from IIIT Lucknow</h3>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamv952" alt="shivamv952" /></a> </p>
 
-- 💬 Ask me about **Flutter, React Native, NodeJs, NextJs**
+- 💬 Ask me about **JavaScript, React.js, React Native, Node.js, Next.js, Java and Spring Boot**
 
 - 📫 How to reach me **shivam952v@gmail.com**
 
