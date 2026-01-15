@@ -2,7 +2,7 @@
 <h3 align="center">I am a 2025 passout from IIIT Lucknow</h3>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamv952" alt="shivamv952" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShivamV952" alt="ShivamV952" /></a> </p>
 
 - 💬 Ask me about **JavaScript, React.js, React Native, Node.js, Next.js, Java and Spring Boot**
 
